@@ -1,0 +1,167 @@
+html {
+	scroll-behavior: smooth;
+}
+
+.nicholas-brand {
+	font-weight: 800;
+}
+
+.header {
+	min-height: 100vh;
+	background-image: url('./background.jpg');
+	background-size: cover;
+	background-position: center;
+	display: flex;
+	justify-content: center;
+}
+.inner {
+	align-self: center;
+	color: #ffffff;
+	margin: 15px;
+	text-align: center;
+}
+
+.profile-pic {
+	max-height: 250px;
+	max-width: calc(100vw - 30px);
+	border-radius: 50%;
+	padding: 15px;
+}
+
+.inner-text {
+	background-color: rgba(53, 59, 65, 0.75);
+	padding: 15px;
+	border-radius: 15px;
+	display: block;
+}
+
+.inner-text a {
+	color: #ffffff;
+	font-size: 30px;
+	padding: 0 15px;
+	text-decoration: none;
+}
+.inner-text a:hover {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+#about {
+	border-bottom: #adb5bd 1px solid;
+	padding-bottom: 56px;
+}
+
+.heading {
+	padding-top: 56px;
+	text-align: center;
+	text-decoration: underline;
+	text-decoration-thickness: 3px;
+	text-underline-offset: 11px;
+	padding-bottom: 15px;
+	text-decoration-color: #6c757d;
+}
+
+.about-text {
+	font-size: larger;
+	text-align: justify;
+}
+
+#education {
+	border-bottom: #adb5bd 1px solid;
+	padding-bottom: 56px;
+}
+
+#experience {
+	border-bottom: #adb5bd 1px solid;
+	padding-bottom: 56px;
+}
+
+#projects {
+	border-bottom: #adb5bd 1px solid;
+	padding-bottom: 56px;
+}
+
+#skills {
+	border-bottom: #adb5bd 1px solid;
+	padding-bottom: 56px;
+}
+
+#contact {
+	padding-bottom: 56px;
+}
+
+.contact-det {
+	text-align: center;
+}
+
+.contact-phone {
+	font-size: 1.5rem;
+	padding: 15px;
+	color: #343a40;
+}
+
+.contact-phone a {
+	color: #343a40;
+	text-decoration: none;
+}
+
+.contact-phone a:hover {
+	color: #343a40;
+	text-decoration: underline;
+}
+
+.contact-email {
+	font-size: 1.5rem;
+	padding: 15px;
+	color: #343a40;
+}
+
+.contact-email a {
+	color: #343a40;
+	text-decoration: none;
+}
+
+.contact-email a:hover {
+	color: #343a40;
+	text-decoration: underline;
+}
+
+.resume-download-btn {
+	padding: 15px;
+}
+
+.contact-text {
+	padding: 15px;
+	display: block;
+}
+
+.contact-text a {
+	color: #343a40;
+	font-size: 30px;
+	padding: 0 15px;
+	text-decoration: none;
+}
+
+.contact-text a:hover {
+	color: #343a40;
+	text-decoration: none;
+}
+
+.footer {
+	text-align: center;
+	margin: 0;
+	background-color: #f8f9fa;
+	padding-top: 56px;
+	padding-bottom: 56px;
+}
+
+.react {
+	font-weight: 800;
+	text-decoration: none;
+	color: #343a40;
+}
+
+.react:hover {
+	font-weight: 800;
+	color: #343a40;
+}
