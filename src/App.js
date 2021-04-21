@@ -53,8 +53,8 @@ function App() {
 					<h1 className="inner-text">
 						<span role="img" aria-label="Hi">
 							👋
-						</span>
-						&nbsp;I'M NICHOLAS
+						</span>{' '}
+						I'M NICHOLAS
 					</h1>
 					<span className="inner-text">
 						<a
@@ -156,23 +156,21 @@ function App() {
 				<Row>
 					<Col className="contact-det">
 						<div className="contact-phone">
-							<FontAwesomeIcon icon="phone-square" />
-							&nbsp;
+							<FontAwesomeIcon icon="phone-square" />{' '}
 							<a href="tel:+13479710488" target="_blank" rel="noreferrer">
 								+1-(347)-971-0488
 							</a>
 						</div>
 						<div className="contact-email">
-							<FontAwesomeIcon icon="envelope" />
-							&nbsp;
+							<FontAwesomeIcon icon="envelope" />{' '}
 							<a
 								href="mailto:hi@nicholasben.net"
 								target="_blank"
 								rel="noreferrer"
 							>
 								hi@nicholasben.net
-							</a>
-							&nbsp;,&nbsp;
+							</a>{' '}
+							,{' '}
 							<a
 								href="mailto:nicholas.bennet@nyu.edu"
 								target="_blank"
@@ -229,8 +227,8 @@ function App() {
 							className="react"
 						>
 							ReactJS
-						</a>
-						&nbsp;and&nbsp;
+						</a>{' '}
+						and{' '}
 						<a
 							href="https://react-bootstrap.github.io/"
 							target="_blank"
