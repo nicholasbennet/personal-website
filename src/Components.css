@@ -1,5 +1,5 @@
 .educationList {
-	padding: 30px 0;
+	padding: 30px 15px;
 }
 
 .edu-img-cont {
@@ -30,7 +30,7 @@
 }
 
 .experienceList {
-	padding: 30px 0;
+	padding: 30px 15px;
 	text-align: center;
 }
 
@@ -59,7 +59,7 @@
 }
 
 .projectsList {
-	padding: 30px 0;
+	padding: 30px 15px;
 	text-align: center;
 }
 
@@ -89,7 +89,7 @@
 }
 
 .skillsList {
-	padding: 30px 0;
+	padding: 30px 15px;
 	text-align: center;
 }
 
