@@ -101,7 +101,7 @@ function App() {
 							I am also a self taught Web Developer with a good eye for detail.
 							<br />
 							<br />
-							In my free time you would usually find my tinkering with my
+							In my free time you would usually find me tinkering with my
 							Raspberry Pi HomeLab or cycling and exploring the beautiful New
 							York City.
 							<br />

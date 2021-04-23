@@ -37,7 +37,7 @@ const experience = [
 		company: 'Newranium Creatives',
 		year: 'Mar 2017 - Mar 2018',
 		location: 'Chennai, India',
-		position: 'Fronted Web Developer',
+		position: 'Frontend Web Developer',
 		status: 'Part Time',
 	},
 	{
@@ -65,7 +65,7 @@ const projects = [
 	{
 		name: 'Gesture Controlled Lock',
 		tools: 'C++, Arduino',
-		year: 'May 20200',
+		year: 'May 2020',
 		link: 'https://github.com/nicholasbennet/Gesture_Unlock',
 	},
 	{
