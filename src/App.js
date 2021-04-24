@@ -106,9 +106,9 @@ function App() {
 							York City.
 							<br />
 							<br />
-							Currenty a Sytem Adminiistrator and Cybersecurity Awareness
+							Currently a System Administrator and Cybersecurity Awareness
 							Assistant with the Global Office of Information Security at NYU
-							IT. I work on integrating Cybersecurity Awareness platforms with
+							IT, I work on integrating Cybersecurity Awareness platforms with
 							the existing NYU IT infrastructure and also am part of the
 							discussion on security upgrades for the NYU IT infrastructure.
 						</p>

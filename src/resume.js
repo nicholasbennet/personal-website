@@ -92,7 +92,7 @@ const skills = [
 	{
 		name: 'Other Tools',
 		tools:
-			'AWS, Azure, Docker, Google Cloud, Git, Jira, Linux, Selenium, Windows, Tensorflow, OpenCV',
+			'AWS, Azure, Docker, Google Cloud, Git, Jira, Linux, Selenium, Windows, TensorFlow, OpenCV',
 	},
 ];
 
