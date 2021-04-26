@@ -180,7 +180,7 @@ function App() {
 							</a>
 						</div>
 						<div className="resume-download-btn">
-							<a href="/resume.pdf" download="Resume.pdf">
+							<a href="/resume.pdf" download="Nicholas-Bennet-Resume.pdf">
 								<Button variant="dark">
 									<FontAwesomeIcon icon="file-download" /> Download my Resume
 								</Button>
