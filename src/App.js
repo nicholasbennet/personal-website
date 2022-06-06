@@ -93,24 +93,17 @@ function App() {
 				<Row>
 					<Col className="about-text">
 						<p>
-							I'm Nicholas Bennet, a 24 year old Computer Engineer who will be
-							graduating with a Master's in Computer Engineering from New York
-							University on May 19th, 2021. I am excited about everything
-							software, networking and security related and love to use my
-							knowledge and careful research to help solve real world problems.
-							I am also a self taught Web Developer with a good eye for detail.
+							I'm Nicholas Bennet, a 25 year old Security Engineer/Architect who
+							is currently working with New York University. I am excited about
+							everything software, networking and security related and love to
+							use my knowledge and careful research to help solve real world
+							problems. I am also a self taught Web Developer with a good eye
+							for detail.
 							<br />
 							<br />
 							In my free time you would usually find me tinkering with my
 							Raspberry Pi HomeLab or cycling and exploring the beautiful New
 							York City.
-							<br />
-							<br />
-							Currently a System Administrator and Cybersecurity Awareness
-							Assistant with the Global Office of Information Security at NYU
-							IT, I work on integrating Cybersecurity Awareness platforms with
-							the existing NYU IT infrastructure and also am part of the
-							discussion on security upgrades for the NYU IT infrastructure.
 						</p>
 					</Col>
 				</Row>

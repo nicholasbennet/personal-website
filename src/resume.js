@@ -87,20 +87,22 @@ const projects = [
 const skills = [
 	{
 		name: 'Programming',
-		tools: 'C++, Java, MATLAB, Python',
+		tools: 'C++, Javascript, Python',
 	},
 	{
-		name: 'Frontend',
-		tools: 'AngularJS, JavaScript, jQuery, ReactJS',
+		name: 'Security',
+		tools:
+			'Nmap, Wireshark, OWASP ZAP, Splunk, MITRE ATT&CK, NIST, CWE, CVSS, CVE',
 	},
 	{
-		name: 'Backend',
-		tools: 'GraphQL, MongoDB, NodeJS, SQL',
+		name: 'Web',
+		tools:
+			'AngularJS, JavaScript, jQuery, ReactJS, GraphQL, MongoDB, NodeJS, SQL',
 	},
 	{
 		name: 'Other Tools',
 		tools:
-			'AWS, Azure, Docker, Google Cloud, Git, Jira, Linux, Selenium, Windows, TensorFlow, OpenCV',
+			'AWS, Azure, Docker, Google Cloud, Git, Jira, Linux, Selenium, ServiceNow, Windows, TensorFlow, OpenCV',
 	},
 ];
 
