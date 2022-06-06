@@ -115,14 +115,6 @@ function App() {
 					</Col>
 				</Row>
 			</Container>
-			<Container id="education">
-				<Row>
-					<Col className="heading">
-						<h1>Education</h1>
-					</Col>
-				</Row>
-				<Education education={education} />
-			</Container>
 			<Container id="experience">
 				<Row>
 					<Col className="heading">
@@ -130,6 +122,14 @@ function App() {
 					</Col>
 				</Row>
 				<Experience experience={experience} />
+			</Container>
+			<Container id="education">
+				<Row>
+					<Col className="heading">
+						<h1>Education</h1>
+					</Col>
+				</Row>
+				<Education education={education} />
 			</Container>
 			<Container id="projects">
 				<Row>

@@ -20,7 +20,15 @@ const experience = [
 	{
 		img: '/nyuit.png',
 		company: 'NYU IT',
-		year: 'Nov 2019 - Present',
+		year: 'Jul 2021 - Present',
+		location: 'New York, NY',
+		position: 'Cyber Security Engineer/Architect',
+		status: 'Full Time',
+	},
+	{
+		img: '/nyuit.png',
+		company: 'NYU IT',
+		year: 'Nov 2019 - Jul 2021',
 		location: 'New York, NY',
 		position: 'System Administrator and Security Awareness Assistant',
 		status: 'Part Time',
