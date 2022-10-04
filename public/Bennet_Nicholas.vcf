@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Nicholas Bennet
+N;CHARSET=UTF-8:Bennet;Nicholas;;;
+EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:hi@nicholasben.net
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:nicholas.bennet@nyu.edu
+TEL;TYPE=HOME,VOICE:+1 (347) 971-0488
+URL;CHARSET=UTF-8:https://nicholasben.net/
+REV:2022-10-04T03:10:35.595Z
+END:VCARD
