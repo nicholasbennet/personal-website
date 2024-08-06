@@ -72,7 +72,7 @@ function App() {
 							<FontAwesomeIcon icon={['fab', 'linkedin']} />
 						</a>
 						<a
-							href="mailto:hi@nicholasben.net"
+							href="mailto:hire@nicholasben.net"
 							target="_blank"
 							rel="noreferrer"
 						>
@@ -157,11 +157,11 @@ function App() {
 						<div className="contact-email">
 							<FontAwesomeIcon icon="envelope" />{' '}
 							<a
-								href="mailto:hi@nicholasben.net"
+								href="mailto:hire@nicholasben.net"
 								target="_blank"
 								rel="noreferrer"
 							>
-								hi@nicholasben.net
+								hire@nicholasben.net
 							</a>{' '}
 							,{' '}
 							<a
@@ -196,7 +196,7 @@ function App() {
 								<FontAwesomeIcon icon={['fab', 'linkedin']} />
 							</a>
 							<a
-								href="mailto:hi@nicholasben.net"
+								href="mailto:hire@nicholasben.net"
 								target="_blank"
 								rel="noreferrer"
 							>
